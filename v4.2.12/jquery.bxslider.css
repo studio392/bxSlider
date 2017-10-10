@@ -18,7 +18,7 @@
 .bx-wrapper .bx-controls-auto { position:absolute; bottom:0; width:100% }
 
 /* LOADER */
-.bx-wrapper .bx-loading { position:absolute; top:0; left:0; width:100%; height:100%; min-height:50px; background:#ffffff url(../images/bx_loader.gif) no-repeat 50% 50%; z-index:100 }
+.bx-wrapper .bx-loading { position:absolute; top:0; left:0; width:100%; height:100%; min-height:50px; background:#ffffff url(./images/bx_loader.gif) no-repeat 50% 50%; z-index:100 }
 
 /* PAGER */
 .bx-wrapper .bx-pager { padding-bottom:20px; text-align:center; font-size:.85em; font-family:Arial; font-weight:bold; color:#666 }
@@ -31,10 +31,10 @@
 .bx-wrapper .bx-pager-item { font-size:0; line-height:0 }
 
 /* DIRECTION CONTROLS (NEXT / PREV) */
-.bx-wrapper .bx-prev { left:10px; background:url(../images/controls.png) no-repeat 0 -32px }
+.bx-wrapper .bx-prev { left:10px; background:url(./images/controls.png) no-repeat 0 -32px }
 .bx-wrapper .bx-prev:hover,
 .bx-wrapper .bx-prev:focus { background-position:0 0 }
-.bx-wrapper .bx-next { right:10px; background:url(../images/controls.png) no-repeat -43px -32px }
+.bx-wrapper .bx-next { right:10px; background:url(./images/controls.png) no-repeat -43px -32px }
 .bx-wrapper .bx-next:hover,
 .bx-wrapper .bx-next:focus { background-position:-43px 0 }
 .bx-wrapper .bx-controls-direction a { position:absolute; top:50%; width:32px; height:32px; margin-top:-16px; text-indent:-9999px; z-index:999 }
@@ -42,11 +42,11 @@
 
 /* AUTO CONTROLS (START / STOP) */
 .bx-wrapper .bx-controls-auto { text-align:center }
-.bx-wrapper .bx-controls-auto .bx-start { display:block;  width:10px; height:11px; margin:0 3px; background:url(../images/controls.png) no-repeat -86px -11px; text-indent:-9999px }
+.bx-wrapper .bx-controls-auto .bx-start { display:block;  width:10px; height:11px; margin:0 3px; background:url(./images/controls.png) no-repeat -86px -11px; text-indent:-9999px }
 .bx-wrapper .bx-controls-auto .bx-start:hover,
 .bx-wrapper .bx-controls-auto .bx-start.active,
 .bx-wrapper .bx-controls-auto .bx-start:focus { background-position:-86px 0 }
-.bx-wrapper .bx-controls-auto .bx-stop { display:block; width:9px; height:11px; margin:0 3px; background:url(../images/controls.png) no-repeat -86px -44px; text-indent:-9999px }
+.bx-wrapper .bx-controls-auto .bx-stop { display:block; width:9px; height:11px; margin:0 3px; background:url(./images/controls.png) no-repeat -86px -44px; text-indent:-9999px }
 .bx-wrapper .bx-controls-auto .bx-stop:hover,
 .bx-wrapper .bx-controls-auto .bx-stop.active,
 .bx-wrapper .bx-controls-auto .bx-stop:focus { background-position:-86px -33px }
