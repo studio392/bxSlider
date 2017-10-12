@@ -13,6 +13,17 @@ http://bxslider.com
 - Browser support: Firefox, Chrome, Safari, iOS, Android, IE7+
 - Tons of configuration options
 
+## Installation
+
+**html document header in link tag:**
+
+```html
+<script src="https://cdn.rawgit.com/studio392/bxSlider/cb0cf0d0/v4.2.12/jquery.bxslider.min.js"></script>
+```
+```html
+<link rel="stylesheet" href="https://cdn.rawgit.com/studio392/bxSlider/cb0cf0d0/v4.2.12/jquery.bxslider.css" />
+```
+
 ## Written by
 
 Steven Wanderski - http://stevenwanderski.com
